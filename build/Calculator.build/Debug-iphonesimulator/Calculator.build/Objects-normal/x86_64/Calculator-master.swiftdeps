@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "5e38eb636fbc59306e4b27886cdc6dd9"
+build_time: [518783351, 92231000]
+inputs:
+  "/Users/darius/Documents/xcode/Calculator/Calculator/CalculatorBrain.swift": [517757689, 0]
+  "/Users/darius/Documents/xcode/Calculator/Calculator/ViewController.swift": [518783350, 0]
+  "/Users/darius/Documents/xcode/Calculator/Calculator/AppDelegate.swift": [517479363, 0]
